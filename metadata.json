@@ -1,0 +1,6 @@
+{
+  "name": "MamaRoute AI",
+  "description": "Maternal healthcare emergency coordination and response platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
